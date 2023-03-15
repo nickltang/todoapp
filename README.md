@@ -1,4 +1,4 @@
 # To-Do App
 To-do app using React, Django, and Django Rest Framework
 
-Using this as a template to test/experiment with API's
+Using this as a template to test/experiment with API's and deployment
